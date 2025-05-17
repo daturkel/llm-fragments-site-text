@@ -4,7 +4,7 @@ A fragment loader for [LLM](https://llm.datasette.io/) that converts websites in
 
 [![PyPI](https://img.shields.io/pypi/v/llm-fragments-site-text.svg)](https://pypi.org/project/llm-fragments-site-text/)
 [![Changelog](https://img.shields.io/github/v/release/daturkel/llm-fragments-site-text?include_prereleases&label=changelog)](https://github.com/daturkel/llm-fragments-site-text/releases)
-[![Tests](https://github.com/daturkel/llm-fragments-site-text/actions/workflows/test.yml/badge.svg)](https://github.com/daturkel/llm-fragments-site-text/actions/workflows/test.yml)
+[![Test suite](https://github.com/daturkel/llm-fragments-site-text/actions/workflows/test.yml/badge.svg)](https://github.com/daturkel/llm-fragments-site-text/actions/workflows/test.yml)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/daturkel/llm-fragments-site-text/blob/main/LICENSE)
 
 ## Installation
